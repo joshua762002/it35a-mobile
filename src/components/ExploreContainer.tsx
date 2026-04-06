@@ -88,8 +88,12 @@
       <IonBadge color="danger">1000</IonBadge>
     </IonItem>
   </IonList>
+  
       </div>
+        
+      
     );
   };
+  
 
   export default ExploreContainer;
