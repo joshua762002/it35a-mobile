@@ -7,7 +7,7 @@ const Search: React.FC = () => {
             <IonToolbar>
                 <IonButtons>
                     <IonMenuButton></IonMenuButton>
-                    <IonTitle>Search</IonTitle>
+                    <IonTitle>Searching sa pag mamahal nya </IonTitle>
                 </IonButtons>
                 
             </IonToolbar>
